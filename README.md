@@ -10,7 +10,12 @@ The dataset includes variables such as:
 - Renewable energy consumption (% of total final energy use)  
 - CO₂ emissions (total, Mt CO₂e)  
 --------
+## Project Direction
+![Project Direction](./Project_Direction.jpg)
+
+--------
 ## 📖 Data Source
 
 World Bank, World Development Indicators (WDI)
 🔗 https://databank.worldbank.org/source/world-development-indicators
+
