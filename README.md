@@ -9,9 +9,6 @@ The dataset includes variables such as:
 - Population (total)  
 - Renewable energy consumption (% of total final energy use)  
 - CO₂ emissions (total, Mt CO₂e)  
---------
-## Project Direction
-![Project Direction](./Project_Direction.jpg)
 
 --------
 ## 📖 Data Source
