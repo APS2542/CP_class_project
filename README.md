@@ -40,5 +40,5 @@ The dashboard automatically generates:
 
 Below is the latest version of the dashboard homepage:
 
-![home_preview](./dataset/web_demo.png)
+![web_preview](dataset/web_demo.png)
 
