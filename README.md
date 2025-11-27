@@ -36,9 +36,18 @@ The dashboard automatically generates:
 
 ---
 
-## 🖼️ Home Preview
+## 🌐 Web Demo Preview
 
-Below is the latest version of the dashboard homepage:
+Here is an example of the interactive forecasting web application:
 
-![web_preview](dataset/web_demo.png)
+![Web Demo](dataset/web_demo.png)
+
+The dashboard allows users to:
+- Select country inputs  
+- Choose model mode (Global or Tier-specific)  
+- View CO₂ forecast with confidence range  
+- Compare historical vs. predicted CO₂  
+- Inspect key drivers from the model  
+
+
 
