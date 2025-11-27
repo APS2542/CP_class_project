@@ -40,7 +40,7 @@ The dashboard automatically generates:
 
 Here is an example of the interactive forecasting web application:
 
-![Web Demo](dataset/web_demo.png)
+![Web Demo](Project/dataset/web_demo.png)
 
 The dashboard allows users to:
 - Select country inputs  
