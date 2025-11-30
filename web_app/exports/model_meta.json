@@ -1,0 +1,15 @@
+{
+  "feature_cols": [
+    "log1p_GDP_current_usd",
+    "log1p_Population_total",
+    "log1p_Energy_use_kg_oil_pc",
+    "Renewable_energy_pct",
+    "LifeExp_years"
+  ],
+  "target_col": "log1p_CO2_total_mt",
+  "tier_cutoff_year": 2014,
+  "resid_var": 0.01273695775355689,
+  "train_rows": 7614,
+  "train_year_min": 1970,
+  "train_year_max": 2023
+}

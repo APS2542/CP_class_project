@@ -1,0 +1,30 @@
+# Virtual environment
+.venv/
+env/
+
+# Cache / Python compiled
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data large files
+*.csv
+*.xlsx
+dataset/
+outputs/
+figures/
+
+# Certificates
+*.pem
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Do NOT track old test folder
+test/
